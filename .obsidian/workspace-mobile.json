@@ -178,8 +178,9 @@
   },
   "active": "818fe0086283f292",
   "lastOpenFiles": [
-    "REST API/v1/Trouble REST API.md",
+    "REST API/v2/Endpoints/_endpoint prefix.md",
     "README.md",
+    "REST API/v1/Trouble REST API.md",
     "Правовые документы/Правовая информация.md",
     "trouble-play.com.md",
     "Правовые документы/Пользовательское соглашение.md",
@@ -205,7 +206,6 @@
     "REST API/v2/Enums/PrivacyEnum.md",
     "REST API/v2/Enums/GameSourceEnum.md",
     "REST API/v2/Enums/GamePreferenceEnum.md",
-    "REST API/v2/DTO/ProfileDTO.md",
     "REST API/v2/Enums",
     "REST API/v2/DTO",
     "REST API/v2",

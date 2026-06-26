@@ -1,0 +1,46 @@
+formulas:
+  methodAndUrl: method + " " + url
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.inFolder("Записки/Trouble/REST API/New/Endpoints")
+        - file.name != "_base"
+        - '!file.inFolder("Записки/Trouble/REST API/New/Endpoints/_examples")'
+    order:
+      - method
+      - url
+      - description
+      - file.name
+    sort:
+      - property: url
+        direction: ASC
+      - property: method
+        direction: ASC
+    columnSize:
+      note.description: 202
+    markers: none
+    indentProperties: true
+    rowHeight: medium
+  - type: list
+    name: Список
+    filters:
+      and:
+        - file.inFolder("Записки/Trouble/REST API/New/Endpoints")
+        - file.name != "_base"
+        - '!file.inFolder("Записки/Trouble/REST API/New/Endpoints/_examples")'
+    order:
+      - formula.methodAndUrl
+      - description
+      - file.name
+    sort:
+      - property: url
+        direction: ASC
+      - property: method
+        direction: ASC
+    columnSize:
+      note.description: 202
+    markers: none
+    indentProperties: true
+    rowHeight: medium

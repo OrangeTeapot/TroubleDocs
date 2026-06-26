@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Правовые документы/_Правовые документы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "_Правовые документы"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Раздел",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "ce8ce4cc2801bf81",
@@ -178,12 +178,23 @@
   },
   "active": "818fe0086283f292",
   "lastOpenFiles": [
-    "REST API/v2/Endpoints/_endpoint prefix.md",
-    "README.md",
-    "REST API/v1/Trouble REST API.md",
-    "Правовые документы/Правовая информация.md",
-    "trouble-play.com.md",
+    "Правовые документы/_список.base",
+    "Правовые документы/_Правовые документы.md",
+    "Правовые документы/Согласие на обработку персональных данных.md",
+    "Правовые документы/Политика возвратов.md",
+    "Правовые документы/Правила сообщества.md",
+    "Правовые документы/Согласие на получение электронных чеков.md",
+    "Правовые документы/Согласие на получение маркетинговых сообщений.md",
+    "Правовые документы/Политика использования файлов cookie.md",
+    "Правовые документы/Без названия",
     "Правовые документы/Пользовательское соглашение.md",
+    "Правовые документы/Политика конфиденциальности.md",
+    "Правовые документы/Правовая информация.md",
+    "Правовые документы/Публичная оферта.md",
+    "README.md",
+    "REST API/v2/Endpoints/_endpoint prefix.md",
+    "REST API/v1/Trouble REST API.md",
+    "trouble-play.com.md",
     "О проекте Trouble.md",
     "Правовые документы",
     "REST API/v1/Игроки и справочники√.md",
@@ -195,17 +206,7 @@
     "REST API/v1/Приложение Роуты только в experimental.md",
     "REST API/v1/Подписка и платежи.md",
     "REST API/v1/Общие соглашения.md",
-    "REST API/v1/Команды.md",
-    "REST API/v1/Каталог игр (поиск)√.md",
-    "REST API/v1/Игры профиля (библиотека)√.md",
-    "REST API/v1/Друзья√.md",
-    "REST API/v1/Идеи и подбор√.md",
     "REST API/v1",
-    "REST API/v2/Enums/PeopleScopeEnum.md",
-    "REST API/v2/Enums/VisibilityEnum.md",
-    "REST API/v2/Enums/PrivacyEnum.md",
-    "REST API/v2/Enums/GameSourceEnum.md",
-    "REST API/v2/Enums/GamePreferenceEnum.md",
     "REST API/v2/Enums",
     "REST API/v2/DTO",
     "REST API/v2",

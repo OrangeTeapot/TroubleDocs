@@ -1,0 +1,19 @@
+views:
+  - type: list
+    name: Представление
+    filters:
+      and:
+        - file.inFolder("Правовые документы")
+        - file.ext == "md"
+        - '!file.name.startsWith("_")'
+    order:
+      - file.name
+      - описание
+      - редакция
+    sort: []
+    rowHeight: medium
+    columnSize:
+      file.name: 206
+      note.описание: 192
+    markers: none
+    indentProperties: true

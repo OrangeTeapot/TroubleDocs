@@ -1,16 +1,15 @@
 formulas:
   methodAndUrl: method + " " + url
 views:
-  - type: table
-    name: Таблица
+  - type: list
+    name: Список
     filters:
       and:
-        - file.inFolder("Записки/Trouble/REST API/New/Endpoints")
+        - file.inFolder("REST API/v2/Endpoints")
         - file.name != "_base"
         - '!file.inFolder("Записки/Trouble/REST API/New/Endpoints/_examples")'
     order:
-      - method
-      - url
+      - formula.methodAndUrl
       - description
       - file.name
     sort:
@@ -23,15 +22,16 @@ views:
     markers: none
     indentProperties: true
     rowHeight: medium
-  - type: list
-    name: Список
+  - type: table
+    name: Таблица
     filters:
       and:
-        - file.inFolder("Записки/Trouble/REST API/New/Endpoints")
+        - file.inFolder("REST API/v2/Endpoints")
         - file.name != "_base"
         - '!file.inFolder("Записки/Trouble/REST API/New/Endpoints/_examples")'
     order:
-      - formula.methodAndUrl
+      - method
+      - url
       - description
       - file.name
     sort:

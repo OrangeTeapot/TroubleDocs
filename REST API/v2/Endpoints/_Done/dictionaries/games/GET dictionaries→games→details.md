@@ -3,7 +3,7 @@ aliases:
 tags:
   - Endpoint
 method: GET
-url: /enums/games/details
+url: /dictionaries/games/details
 description: Детальная информация о игре из Steam
 ---
 ___

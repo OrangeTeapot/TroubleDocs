@@ -3,7 +3,7 @@ aliases:
 tags:
   - Endpoint
 method: GET
-url: /enums/games/search
+url: /dictionaries/games/search
 description: Мульти-провайдерный поиск игр
 ---
 ___

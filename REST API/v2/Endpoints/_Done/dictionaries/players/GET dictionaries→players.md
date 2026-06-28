@@ -3,7 +3,7 @@ aliases:
 tags:
   - Endpoint
 method: GET
-url: /enums/players
+url: /dictionaries/players
 description: Поиск игроков (для приглашений в идею)
 ---
 ___

@@ -11,14 +11,13 @@
             "id": "818fe0086283f292",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Правовые документы/_Правовые документы.md",
-                "mode": "source",
-                "source": false
+                "file": "TODO/_список.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "_Правовые документы"
+              "icon": "lucide-table",
+              "title": "_список"
             }
           }
         ]
@@ -100,7 +99,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "ce8ce4cc2801bf81",
@@ -178,38 +177,42 @@
   },
   "active": "818fe0086283f292",
   "lastOpenFiles": [
-    "Правовые документы/_список.base",
-    "Правовые документы/_Правовые документы.md",
-    "Правовые документы/Согласие на обработку персональных данных.md",
-    "Правовые документы/Политика возвратов.md",
-    "Правовые документы/Правила сообщества.md",
-    "Правовые документы/Согласие на получение электронных чеков.md",
-    "Правовые документы/Согласие на получение маркетинговых сообщений.md",
-    "Правовые документы/Политика использования файлов cookie.md",
-    "Правовые документы/Без названия",
-    "Правовые документы/Пользовательское соглашение.md",
-    "Правовые документы/Политика конфиденциальности.md",
-    "Правовые документы/Правовая информация.md",
-    "Правовые документы/Публичная оферта.md",
+    "TODO/Добавить больше функционала подписке More Trouble.md",
+    "TODO/Добавить голосовые сообщения.md",
+    "REST API/v2/_endpoints.base",
     "README.md",
+    "REST API/v2/Общие соглашения.md",
+    "TODO/Изменить страницу Идеи.md",
+    "TODO/_список.base",
+    "Без названия.md",
+    "TODO/Изменить страницу Чатов.md",
+    "TODO/Изменить страницу Настроек.md",
+    "TODO/Изменить страницу Пользователя.md",
+    "Шаблоны/Шаблон endpoint.md",
+    "Шаблоны/Шаблон TODO.md",
+    "TODO/Изменить страницу Создать идею.md",
+    "TODO/Front",
+    "TODO.md",
+    "TODO",
+    "REST API/v2/Endpoints/teams/DELETE teams→(ID)→members.md",
+    "REST API/v2/Endpoints/_Done/dictionaries/players/GET dictionaries→players.md",
+    "REST API/v1/Команды.md",
+    "REST API/v2/Endpoints/teams/POST teams→(ID)→members.md",
+    "REST API/v2/Endpoints/teams/PATCH teams→(id).md",
+    "Без названия.canvas",
+    "Шаблоны",
+    "REST API/v2/Endpoints/_Done",
+    "REST API/v2/Endpoints/_Done/account/DELETE account.md",
     "REST API/v2/Endpoints/_endpoint prefix.md",
-    "REST API/v1/Trouble REST API.md",
-    "trouble-play.com.md",
-    "О проекте Trouble.md",
-    "Правовые документы",
-    "REST API/v1/Игроки и справочники√.md",
-    "REST API/v1/Аутентификация.md",
-    "REST API/v1/Аккаунт (GDPR)√.md",
-    "REST API/v1/Чат.md",
-    "REST API/v1/Служебное.md",
-    "REST API/v1/Профиль и подключения.md",
-    "REST API/v1/Приложение Роуты только в experimental.md",
-    "REST API/v1/Подписка и платежи.md",
-    "REST API/v1/Общие соглашения.md",
-    "REST API/v1",
-    "REST API/v2/Enums",
-    "REST API/v2/DTO",
-    "REST API/v2",
-    "REST API"
+    "REST API/v2/Endpoints/_Done/dictionaries/languages/GET dictionaries→languages.md",
+    "REST API/v2/Endpoints/_Done/dictionaries/games/GET dictionaries→games→search.md",
+    "REST API/v2/Endpoints/_Done/dictionaries/games/GET dictionaries→games→details.md",
+    "REST API/v2/Endpoints/_Done/dictionaries/games/GET dictionaries→games.md",
+    "REST API/v1/Done/Каталог игр (поиск).md",
+    "REST API/v1/Done/Идеи и подбор.md",
+    "REST API/v1/Done",
+    "Правовые документы/_список.base",
+    "Правовые документы/Без названия",
+    "Правовые документы"
   ]
 }

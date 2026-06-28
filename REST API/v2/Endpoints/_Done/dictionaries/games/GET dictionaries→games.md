@@ -3,7 +3,7 @@ aliases:
 tags:
   - Endpoint
 method: GET
-url: /enums/games
+url: /dictionaries/games
 description: Список курируемых игр
 ---
 ___

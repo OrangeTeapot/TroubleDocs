@@ -3,7 +3,7 @@ aliases:
 tags:
   - Endpoint
 method: GET
-url: /enums/languages
+url: /dictionaries/languages
 description: Публичный справочник языков
 ---
 ___

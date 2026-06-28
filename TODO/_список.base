@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.inFolder("TODO")
+        - file.ext == "md"
+    groupBy:
+      property: статус
+      direction: ASC
+    order:
+      - статус
+      - file.name

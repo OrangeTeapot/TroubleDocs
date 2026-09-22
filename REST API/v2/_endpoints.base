@@ -28,7 +28,7 @@ views:
       and:
         - file.inFolder("REST API/v2/Endpoints")
         - file.name != "_base"
-        - '!file.inFolder("Записки/Trouble/REST API/New/Endpoints/_examples")'
+        - '!file.inFolder("REST API/v2/Endpoints/_examples")'
     order:
       - method
       - url

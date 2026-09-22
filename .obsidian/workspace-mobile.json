@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d130a5a526b49e59",
+        "id": "449b1485d5a052c3",
         "type": "tabs",
         "children": [
           {
-            "id": "818fe0086283f292",
+            "id": "6bc9967fcb8220fc",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "TODO/_список.base",
-                "viewName": "Таблица"
-              },
-              "icon": "lucide-table",
-              "title": "_список"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -36,7 +33,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Файловый менеджер"
@@ -175,44 +174,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "818fe0086283f292",
+  "active": "6bc9967fcb8220fc",
   "lastOpenFiles": [
-    "TODO/Добавить больше функционала подписке More Trouble.md",
-    "TODO/Добавить голосовые сообщения.md",
-    "REST API/v2/_endpoints.base",
     "README.md",
-    "REST API/v2/Общие соглашения.md",
-    "TODO/Изменить страницу Идеи.md",
+    "TODO/Нормализировать текст в поисках.md",
+    "REST API/v2/Endpoints/auth/TODO (...all).md",
+    "REST API/v1/Общие соглашения.md",
+    "REST API/v2/Endpoints/_Done/profile/POST profile→avatar.md",
+    "REST API/v2/Endpoints/_Done/profile/DELETE profile→xbox.md",
+    "REST API/v1/Done/Профиль и подключения.md",
+    "REST API/v2/Endpoints/_Done/profile/DELETE profile→avatar.md",
+    "REST API/v2/Endpoints/_Done/profile/POST profile→xbox.md",
+    "REST API/v2/Endpoints/_Done/profile/DELETE profile→steam.md",
+    "REST API/v2/Endpoints/_Done/profile/POST profile→steam.md",
+    "REST API/v2/Endpoints/_Done/profile/POST profile→discord.md",
     "TODO/_список.base",
-    "Без названия.md",
-    "TODO/Изменить страницу Чатов.md",
-    "TODO/Изменить страницу Настроек.md",
-    "TODO/Изменить страницу Пользователя.md",
-    "Шаблоны/Шаблон endpoint.md",
-    "Шаблоны/Шаблон TODO.md",
-    "TODO/Изменить страницу Создать идею.md",
+    "TODO/Изменить страницу Идеи.md",
+    "TODO/Изменить логотип сайта.md",
+    "REST API/v2/Endpoints/_Done/profile/POST profile→heartbeat.md",
+    "REST API/v2/Endpoints/_Done/profile/PATCH profile.md",
+    "REST API/v2/Endpoints/_Done/profile/GET profile.md",
+    "REST API/v2/Endpoints/debug/GET debug→error.md",
+    "REST API/v1/Done/Приложение Роуты только в experimental.md",
+    "REST API/v2/Endpoints/_Done/teams/POST  teams→invites.md",
+    "REST API/v2/Endpoints/_Done/teams/GET  teams→invites.md",
+    "Шаблоны/Шаблон DTO.md",
+    "REST API/v2/DTO/IncomingTeamInviteDTO.md",
+    "REST API/v2/Endpoints/_Done/teams/POST  teams→(id)→invites.md",
+    "REST API/v2/Endpoints/_Done/teams/DELETE  teams→(id)→avatar.md",
+    "REST API/v2/Endpoints/_Done/notifications/POST notifications→read.md",
+    "REST API/v2/_endpoints.base",
+    "REST API/v2/Schemas",
+    "REST API/Памятки",
     "TODO/Front",
-    "TODO.md",
     "TODO",
-    "REST API/v2/Endpoints/teams/DELETE teams→(ID)→members.md",
-    "REST API/v2/Endpoints/_Done/dictionaries/players/GET dictionaries→players.md",
-    "REST API/v1/Команды.md",
-    "REST API/v2/Endpoints/teams/POST teams→(ID)→members.md",
-    "REST API/v2/Endpoints/teams/PATCH teams→(id).md",
     "Без названия.canvas",
     "Шаблоны",
     "REST API/v2/Endpoints/_Done",
-    "REST API/v2/Endpoints/_Done/account/DELETE account.md",
-    "REST API/v2/Endpoints/_endpoint prefix.md",
-    "REST API/v2/Endpoints/_Done/dictionaries/languages/GET dictionaries→languages.md",
-    "REST API/v2/Endpoints/_Done/dictionaries/games/GET dictionaries→games→search.md",
-    "REST API/v2/Endpoints/_Done/dictionaries/games/GET dictionaries→games→details.md",
-    "REST API/v2/Endpoints/_Done/dictionaries/games/GET dictionaries→games.md",
-    "REST API/v1/Done/Каталог игр (поиск).md",
-    "REST API/v1/Done/Идеи и подбор.md",
     "REST API/v1/Done",
-    "Правовые документы/_список.base",
-    "Правовые документы/Без названия",
-    "Правовые документы"
+    "Правовые документы/_список.base"
   ]
 }
